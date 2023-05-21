@@ -6,7 +6,7 @@ Running **V2ray** in the edge/serverless runtime.
 
 **!!If your find project can't use, please check the your deploy page and rescan the QRcode!!!!**
 
-https://edgetunnel.114567.xyz/
+[https://edgetunnel.114567.xyz/](https://web.archive.org/web/20230519151647/https://edgetunnel.114567.xyz/)
 
 # Feedback
 
